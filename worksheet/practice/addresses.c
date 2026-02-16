@@ -13,6 +13,6 @@ int main( void ) {
     printf(" %p , %p\n",&k1,&k2);  // we print the memory addresses of both
 
     // what can you deduce about the memory usage and memory layout from inspecting the addresses?
-
+    //The two local int variables are stored next to each other in stack memory.Their addresses differ by 4 bytes, which matches sizeof(int) on this platform.
     return 0;
 }
