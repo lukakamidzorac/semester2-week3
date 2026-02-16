@@ -3,7 +3,7 @@
 
 /*
  * Potrfolio submission
- * Name:
+ * Name: Luka Kamidzorac 
  * ID:
  */
 
